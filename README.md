@@ -1,39 +1,50 @@
 # 🌿 SustentApp
 
-> Aplicativo desenvolvido para incentivar práticas sustentáveis e promover a conscientização socioambiental na comunidade local.
+> Projeto em desenvolvimento voltado à conscientização socioambiental e incentivo a práticas sustentáveis através da tecnologia.  
 
 ---
 
 ## 🎯 Sobre o Projeto
 
-O **SustentApp** foi criado como parte das *Atividades Extensionistas da UNIFOR (2025.2)*, com base no **ODS 13 – Ação Contra a Mudança Global do Clima**.  
-Seu propósito é **conectar tecnologia, educação e engajamento social** para facilitar o descarte correto de resíduos e estimular hábitos ecológicos no cotidiano.
+O **SustentApp** é uma iniciativa desenvolvida pelo **Grupo 21 da UNIFOR** como parte das *Atividades Extensionistas (2025.2)*, alinhada ao **ODS 13 – Ação Contra a Mudança Global do Clima**.  
+O projeto começou como um **site informativo e educativo** e está evoluindo para um **aplicativo interativo** que conectará a comunidade a práticas ecológicas, informações de reciclagem e pontos de coleta seletiva.
 
 ---
 
 ## 🌱 Objetivo
 
-Promover o **descarte fácil e consciente**, aproximando famílias e microempreendedores de práticas sustentáveis por meio de um aplicativo acessível e educativo.
+Promover **consciência socioambiental** e facilitar o **descarte correto de resíduos**, unindo **tecnologia, educação e engajamento comunitário**.  
+O app busca ser uma ferramenta simples, acessível e inclusiva para ajudar famílias e microempreendedores a adotarem hábitos sustentáveis no dia a dia.
 
 ---
 
-## 🧩 Funcionalidades Principais
+## 🔧 Status do Projeto
 
-- 🗑️ **Mapeamento de pontos de coleta seletiva** próximos ao usuário  
-- 🔔 **Notificações e lembretes** sobre os dias de coleta  
-- 📚 **Conteúdos educativos** sobre reciclagem e sustentabilidade  
-- 🌍 **Modo offline**, garantindo acesso mesmo sem internet  
-- 🤝 **Integração comunitária** com oficinas, lives e ações locais  
+🚧 **Em desenvolvimento**  
+- ✅ Etapa concluída: pesquisa, definição do problema e prototipagem do site  
+- 🚀 Etapa atual: desenvolvimento do aplicativo (versão mobile e web)  
+- 🔜 Próximos passos: testes com usuários e integração com base de dados  
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## 🧩 Funcionalidades Planejadas
 
-| Categoria | Tecnologias |
-|------------|--------------|
-| **Design e Prototipagem** | Figma |
-| **Banco de Dados / Backend** | Firebase |
-| **Frontend / Lógica** | *(adicione aqui a linguagem utilizada — ex: JavaScript, Python, etc.)* |
+- 🗺️ **Mapeamento de pontos de coleta seletiva**  
+- 🔔 **Notificações sobre dias de coleta e dicas ecológicas**  
+- 📚 **Conteúdos educativos** sobre reciclagem e consumo consciente  
+- 🌍 **Modo offline** para acessibilidade em regiões com baixa conectividade  
+- 🤝 **Integração com ações comunitárias**, oficinas e campanhas locais  
+
+---
+
+## 💻 Tecnologias Envolvidas
+
+| Categoria | Ferramentas / Tecnologias |
+|------------|---------------------------|
+| **Prototipagem e Design** | Figma |
+| **Frontend (em desenvolvimento)** | React / HTML / CSS / JavaScript |
+| **Backend (planejado)** | Firebase |
+| **Banco de Dados** | Firestore |
 | **Hospedagem** | Cloud Hosting |
 | **Comunicação e Colaboração** | Google Meet, Canva, IDEs de Programação |
 
@@ -41,33 +52,32 @@ Promover o **descarte fácil e consciente**, aproximando famílias e microempree
 
 ## 👥 Público-Alvo
 
-👨‍👩‍👧 Famílias e microempreendedores da comunidade local de **Fortaleza-CE**, interessados em aprender e aplicar práticas ecológicas no dia a dia, reduzindo resíduos e fortalecendo o vínculo com o meio ambiente.
+👨‍👩‍👧 Famílias e microempreendedores da comunidade local de **Fortaleza-CE**, interessados em aprender práticas sustentáveis e melhorar a gestão de resíduos nos lares e negócios.
 
 ---
 
-## 🧠 Problema Social
+## 🌎 Problema Social
 
-A **dificuldade no descarte correto de resíduos** e a **falta de informação sobre sustentabilidade** afetam diretamente a saúde pública e o meio ambiente.  
-O SustentApp surge como uma **solução prática e inclusiva** para enfrentar esses desafios através de tecnologia e educação.
-
----
-
-## 🚀 Resultados e Impacto
-
-Durante a implementação e apresentação do projeto, a comunidade demonstrou grande interesse em soluções simples e acessíveis.  
-Após testes e feedbacks, o app foi ajustado com **interface simplificada**, **modo offline** e **materiais educativos curtos**, ampliando o alcance e engajamento.
-
-> “Pequenas ações geram grandes mudanças — e cada clique é um passo para um planeta mais sustentável.” 🌎💚
+A **dificuldade no descarte correto de resíduos** e a **falta de informação sobre sustentabilidade** geram impactos ambientais e de saúde pública.  
+O **SustentApp** propõe uma solução **educativa e tecnológica**, aproximando a comunidade de ações práticas e acessíveis.
 
 ---
 
-## 🧩 Competências Desenvolvidas
+## 🧠 Aprendizados e Impacto Esperado
 
-- Empatia e comunicação  
-- Trabalho em equipe e liderança  
+Durante o desenvolvimento da primeira etapa (site e extensão universitária), a equipe percebeu o valor da escuta ativa e da co-criação com a comunidade.  
+O projeto despertou o interesse de famílias e empreendedores locais, fortalecendo o vínculo entre **universidade e sociedade**.  
+A expectativa é que o aplicativo amplie esse impacto, tornando o aprendizado **contínuo e interativo**.
+
+---
+
+## 💪 Competências Desenvolvidas pela Equipe
+
+- Planejamento e organização de projetos sustentáveis  
+- Empatia e escuta ativa  
+- Trabalho em equipe e comunicação colaborativa  
 - Mentalidade inovadora  
-- Pensamento crítico e resolução de problemas  
-- Cultura digital e proatividade  
+- Cultura digital e pensamento crítico  
 
 ---
 
@@ -75,34 +85,36 @@ Após testes e feedbacks, o app foi ajustado com **interface simplificada**, **m
 
 | Integrante | Função |
 |-------------|---------|
-| **Millene de Souza Junior** | Desenvolvimento, planejamento e design |
-| **Maria Joselene da Costa Carneiro de Barcelos** | Coordenação e pesquisa comunitária |
+| **Millene de Souza Junior** | Desenvolvimento, design e coordenação técnica |
+| **Maria Joselene da Costa Carneiro de Barcelos** | Pesquisa comunitária e organização |
 | **Francisco Clay Oliveira** | Desenvolvimento e testes |
-| **Leonardo Estevão Silva dos Santos** | Organização e comunicação |
-| **Francisco Hermeson Oliveira dos Santos** | Suporte técnico e integração |
-| **Francisco Tayson Araújo Santos** | Pesquisa e análise de dados |
+| **Leonardo Estevão Silva dos Santos** | Comunicação e apoio técnico |
+| **Francisco Hermeson Oliveira dos Santos** | Suporte e documentação |
+| **Francisco Tayson Araújo Santos** | Análise de dados e apoio nas oficinas |
 
 ---
 
-## 🎥 Apresentação
+## 🎥 Etapa Anterior: Apresentação da Proposta
 
 📹 **[Vídeo: Solução para o Desperdício e o Descarte Incorreto de Resíduos](https://drive.google.com/file/d/18dTZ5ihBe5gY1RdHMIOQM0FmlevnDFC9/view?usp=drive_link)**
 
 ---
 
-## 🏁 Status do Projeto
+## 🏁 Próximos Passos
 
-✅ Finalizado (1ª versão)  
-🔄 Em aprimoramento contínuo conforme feedbacks da comunidade  
+- 🔹 Desenvolvimento completo do app (front + back-end)  
+- 🔹 Testes com usuários da comunidade local  
+- 🔹 Implementação de modo offline  
+- 🔹 Lançamento da versão beta com acesso público  
 
 ---
 
 ## 🧾 Licença
 
-Este projeto foi desenvolvido para fins educacionais e extensionistas pela **Universidade de Fortaleza (UNIFOR)**.  
-Uso livre para fins acadêmicos e de conscientização ambiental. 🌍
+Este projeto é de caráter **educacional e extensionista**, desenvolvido pela **Universidade de Fortaleza (UNIFOR)**.  
+Uso livre para fins acadêmicos, de conscientização e impacto socioambiental. 🌱
 
 ---
 
 Feito com 💚 por **Grupo 21 - UNIFOR**  
-> “A tecnologia é uma aliada da sustentabilidade quando usada com propósito.” 🌱
+> “A tecnologia é uma aliada da sustentabilidade quando usada com propósito.” 🌿
